@@ -1,1 +1,1 @@
-export const TOKEN: string = process.env.TOKEN || "비밀";
+export const TOKEN: string = process.env.TOKEN || "scr";
