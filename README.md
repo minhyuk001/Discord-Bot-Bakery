@@ -5,3 +5,4 @@ Discord Server Bakery Bot
 * Role Giving
 * Server Info
 * Developer Info
+* User Info
